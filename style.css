@@ -1,0 +1,7 @@
+body {
+    background line 
+    font-size: 15pt;
+}
+body{
+    background: linear-gradient(red,green,red,green,red, green, purple);
+}
